@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https//moseskereya.github.io/counter-app/static/css/main.f3031638.chunk.css",
+    "main.js": "https//moseskereya.github.io/counter-app/static/js/main.3bf00c90.chunk.js",
+    "main.js.map": "https//moseskereya.github.io/counter-app/static/js/main.3bf00c90.chunk.js.map",
+    "runtime~main.js": "https//moseskereya.github.io/counter-app/static/js/runtime~main.ed2eca9f.js",
+    "runtime~main.js.map": "https//moseskereya.github.io/counter-app/static/js/runtime~main.ed2eca9f.js.map",
+    "static/js/2.49a21540.chunk.js": "https//moseskereya.github.io/counter-app/static/js/2.49a21540.chunk.js",
+    "static/js/2.49a21540.chunk.js.map": "https//moseskereya.github.io/counter-app/static/js/2.49a21540.chunk.js.map",
+    "index.html": "https//moseskereya.github.io/counter-app/index.html",
+    "precache-manifest.21d308c9ce78b277939a1860a5bf8d33.js": "https//moseskereya.github.io/counter-app/precache-manifest.21d308c9ce78b277939a1860a5bf8d33.js",
+    "service-worker.js": "https//moseskereya.github.io/counter-app/service-worker.js",
+    "static/css/main.f3031638.chunk.css.map": "https//moseskereya.github.io/counter-app/static/css/main.f3031638.chunk.css.map"
+  }
+}
